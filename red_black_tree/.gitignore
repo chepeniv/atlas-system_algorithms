@@ -26,8 +26,7 @@
 *.err
 *.error
 *.log
-*.output
-# *.out
+# *.output
 
 ######## force ignore
 
